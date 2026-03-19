@@ -19,7 +19,7 @@ const dungMai = {
   location: "Vietnam 🇻🇳",
   role: "Full Stack Developer",
   frontend: ["React.js", "Next.js"],
-  backend: ["Spring Boot", "Nest.js, "Node.js", "Express"],
+  backend: ["Spring Boot", "Nest.js", "Node.js", "Express"],
   languages: ["Java", "TypeScript", "JavaScript", "Python"],
   databases: ["PostgreSQL", "Oracle", "MySQL", "SQL Server"],
   tools: ["Git", "Docker", "AWS", "Firebase"]
