@@ -18,10 +18,10 @@ const dungMai = {
   pronouns: "He/Him",
   location: "Vietnam 🇻🇳",
   role: "Full Stack Developer",
-  languages: ["JavaScript", "Python", "Java", "TypeScript"],
-  frameworks: ["React", "Node.js", "Express", "Next.js"],
-  databases: ["MongoDB", "MySQL", "PostgreSQL"],
-  tools: ["Git", "Docker", "AWS", "Firebase"],
-  challenge: "I am doing the #100DaysOfCode challenge focused on React and Node.js"
+  frontend: ["React.js", "Next.js"],
+  backend: ["Spring Boot", "Nest.js, "Node.js", "Express"],
+  languages: ["Java", "TypeScript", "JavaScript", "Python"],
+  databases: ["PostgreSQL", "Oracle", "MySQL", "SQL Server"],
+  tools: ["Git", "Docker", "AWS", "Firebase"]
 };
 ```
